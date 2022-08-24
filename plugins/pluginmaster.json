@@ -18,7 +18,7 @@
         "IsTestingExclusive": false,
         "RepoUrl": null,
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "DownloadCount": 0,
         "LastUpdate": 0,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/ars-magna/MyDalamudPlugins/Plugins/OopsAllLalafells/latest.zip",
@@ -30,6 +30,6 @@
         "AcceptsFeedback": true,
         "FeedbackMessage": null,
         "FeedbackWebhook": null,
-        "LastUpdated": "165005060"
+        "LastUpdated": "1650050609"
     }
 ]
