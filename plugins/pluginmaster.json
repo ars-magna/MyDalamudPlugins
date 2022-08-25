@@ -6,7 +6,7 @@
         "AssemblyVersion": "1.4.0.0",
         "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://ava.dev/oops-all-lalafells/",
+        "RepoUrl": "https://github.com/ars-magna/OopsAllLalafells",
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
@@ -16,6 +16,6 @@
         "DownloadLinkUpdate": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafells/latest.zip?raw=tru",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1661385272"
+        "LastUpdated": "1661385292"
     }
 ]
