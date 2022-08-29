@@ -3,7 +3,7 @@
         "Author": "Avaflow, updated by Ars Magna",
         "Name": "Oops, All Lalafells!",
         "InternalName": "OopsAllLalafells",
-        "AssemblyVersion": "1.4.0.0",
+        "AssemblyVersion": "1.3.2.0",
         "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/ars-magna/OopsAllLalafells",
@@ -16,6 +16,6 @@
         "DownloadLinkUpdate": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafells/latest.zip?raw=tru",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1661385392"
+        "LastUpdated": "1661385399"
     }
 ]
