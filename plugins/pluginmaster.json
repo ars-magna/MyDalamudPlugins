@@ -1,8 +1,8 @@
 [
     {
         "Author": "Avaflow, updated by Ars Magna",
-        "Name": "Oops, All Lalafells!",
-        "InternalName": "OopsAllLalafells",
+        "Name": "Oops, All Lalafells! - Super Rad Edition",
+        "InternalName": "OopsAllLalafells-SuperRadEdition",
         "AssemblyVersion": "1.3.2.0",
         "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
         "ApplicableVersion": "any",
