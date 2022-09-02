@@ -11,9 +11,9 @@
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
         "Punchline": "That one funny plugin your friend told you about.",
-        "DownloadLinkInstall": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafells/latest.zip?raw=tru",
-        "DownloadLinkTesting": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafells/latest.zip?raw=tru",
-        "DownloadLinkUpdate": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafells/latest.zip?raw=tru",
+        "DownloadLinkInstall": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafellsSRE/latest.zip?raw=tru",
+        "DownloadLinkTesting": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafellsSRE/latest.zip?raw=tru",
+        "DownloadLinkUpdate": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafellsSRE/latest.zip?raw=tru",
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdated": "1661385299"
